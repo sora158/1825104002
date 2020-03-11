@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sora</string>
+    <string name="editText">Enter an message</string>
+    <string name="button_send">send</string>
+</resources>
